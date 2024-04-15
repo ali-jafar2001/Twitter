@@ -1,0 +1,9 @@
+RESOURCE_URL = src\\resource
+FRAME_CONFIG_FILE = src\\resource\\configfiles\\MainFrameConfigFile
+LOGIN_CONFIG_FILE = src\\resource\\configfiles\\LoginPanelConfigFile
+MENU_CONFIG_FILE = src\\resource\\configfiles\\MenuPanelConfigFile
+SETTING_CONFIG_FILE = src\\resource\\configfiles\\SettingPanelConfigFile
+PAGE_CONFIG_FILE = src\\resource\\configfiles\\PagePanelConfigFile
+TIMELINE_CONFIG_FILE = src\\resource\\configfiles\\TimeLinePanelConfigFile
+EXPLORER_CONFIG_FILE = src\\resource\\configfiles\\ExplorerPanelConfigFile
+MESSAGING_CONFIG_FILE = src\\resource\\configfiles\\MessagingPanelConfigFile
